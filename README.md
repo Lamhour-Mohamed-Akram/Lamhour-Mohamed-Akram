@@ -82,7 +82,7 @@ class MohamedAkram:
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lamhour-Mohamed-Akram&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://streak-stats.demolab.com?user=Lamhour-Mohamed-Akram&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lamhour-Mohamed-Akram&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lamhour-Mohamed-Akram&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
