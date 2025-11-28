@@ -1,16 +1,12 @@
-<h1 align="center">Hi there, I'm Mohamed-Akram Lamhour 👋</h1>
+# Hi there, I'm Mohamed-Akram Lamhour 👋
 
-<p align="center">
-  <a href="https://linkedin.com/in/ak2lamhour"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ak2lamhour@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.self.so/ak2lamhour"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ak2lamhour)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ak2lamhour@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.self.so/ak2lamhour)
 
-<h3 align="center">Full-Stack Software Engineer | Data Science & ML Background</h3>
+### Full-Stack Software Engineer | Data Science & ML Background
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lamhour-Mohamed-Akram&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=Lamhour-Mohamed-Akram&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
@@ -76,32 +72,19 @@ class MohamedAkram:
 
 ## 🏢 Organizations
 
-<p>
-  <a href="https://github.com/FE-Construction">
-    <img src="https://img.shields.io/badge/FE_Construction-Construction_Management_Platform-blue?style=for-the-badge" alt="FE-Construction"/>
-  </a>
-</p>
-<p>
-  <a href="https://github.com/MoulCompta">
-    <img src="https://img.shields.io/badge/MoulCompta-Accounting_Platform-green?style=for-the-badge" alt="MoulCompta"/>
-  </a>
-</p>
+[![FE-Construction](https://img.shields.io/badge/FE_Construction-Construction_Management_Platform-blue?style=for-the-badge)](https://github.com/FE-Construction)
+
+[![MoulCompta](https://img.shields.io/badge/MoulCompta-Accounting_Platform-green?style=for-the-badge)](https://github.com/MoulCompta)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lamhour-Mohamed-Akram&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lamhour-Mohamed-Akram&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lamhour-Mohamed-Akram&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lamhour-Mohamed-Akram&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamhour-Mohamed-Akram&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamhour-Mohamed-Akram&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -125,10 +108,4 @@ class MohamedAkram:
 
 ---
 
-<p align="center">
-  <i>"Clean code, robust architecture, and continuous improvement."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+> *"Clean code, robust architecture, and continuous improvement."*
