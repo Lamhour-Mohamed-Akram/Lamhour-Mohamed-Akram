@@ -1,12 +1,11 @@
 # Hi there, I'm Mohamed-Akram Lamhour 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ak2lamhour)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ak2lamhour@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.self.so/ak2lamhour)
 
 ### Full-Stack Software Engineer | Data Science & ML Background
 
-![Profile views](https://komarev.com/ghpvc/?username=Lamhour-Mohamed-Akram&label=Profile%20views&color=0e75b6&style=flat)
+📍 Bremen, Germany
 
 ---
 
@@ -15,76 +14,44 @@
 ```python
 class MohamedAkram:
     def __init__(self):
-        self.name = "Mohamed-Akram Lamhour"
         self.role = "Full-Stack Software Engineer"
-        self.location = "Bremen, Germany 🇩🇪"
-        self.education = {
-            "MSc": "Data Science & Big Data - Université Hassan II",
-            "BSc": "Mathematics, Informatics & Databases",
-            "Erasmus": "Fachhochschule Kiel, Germany"
-        }
-        self.current_focus = ["Scalable APIs", "Data-Driven Apps", "CI/CD Pipelines"]
+        self.company = "FE Construction GmbH"
+        self.education = "MSc Data Science & Big Data"
+        self.stack = ["Django", "React", "TypeScript", "PostgreSQL", "Docker"]
         
     def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something great together.")
+        print("Let's build something great together!")
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**Backend** 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-### Database & DevOps
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Data Science & ML
-![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 💼 Work Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| **Full-Stack Software Engineer** | FE Construction GmbH 🇩🇪 | Jun 2024 - Present |
-| **Computer Vision Engineer** | AUV Team TomKyle 🇩🇪 | Mar 2023 - Dec 2023 |
-| **HRIS Consultant** | AGIRH 🇲🇦 | Nov 2022 - Feb 2023 |
-| **Research & IoT Engineer** | Ben M'sik Faculty 🇲🇦 | Mar 2022 - Sep 2022 |
+**DevOps & Data**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![PySpark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 ---
 
 ## 🏢 Organizations
 
-[![FE-Construction](https://img.shields.io/badge/FE_Construction-Construction_Management_Platform-blue?style=for-the-badge)](https://github.com/FE-Construction)
-
-[![MoulCompta](https://img.shields.io/badge/MoulCompta-Accounting_Platform-green?style=for-the-badge)](https://github.com/MoulCompta)
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lamhour-Mohamed-Akram&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lamhour-Mohamed-Akram&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lamhour-Mohamed-Akram&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+[![FE-Construction](https://img.shields.io/badge/FE_Construction-Construction_Platform-0366d6?style=flat-square)](https://github.com/FE-Construction)
+[![MoulCompta](https://img.shields.io/badge/MoulCompta-Accounting_Platform-28a745?style=flat-square)](https://github.com/MoulCompta)
 
 ---
 
@@ -92,20 +59,19 @@ class MohamedAkram:
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Diabetes Prediction](https://github.com/Lamhour-Mohamed-Akram/Diabetes-Prediction-with-Pyspark-MLlib-) | ML model for diabetes prediction using PySpark | `PySpark` `MLlib` |
-| [Expert System](https://github.com/Lamhour-Mohamed-Akram/Syst-me-Expert-via-Prolog) | AI system to recommend programming languages | `Prolog` |
-| [Big Data Pipeline](https://github.com/Lamhour-Mohamed-Akram/Hadoop-with-Hive-Nifi-Hbase-in-distributed-mode-Tableau-for-Data-Visualisation) | Distributed data processing with visualization | `Hadoop` `Hive` `HBase` `Tableau` |
-| [Docker Web App](https://github.com/Lamhour-Mohamed-Akram/Generer-une-application-web-conteneuris-e-avec-Docker) | Containerized web application deployment | `Docker` `JavaScript` |
+| [Diabetes Prediction](https://github.com/Lamhour-Mohamed-Akram/Diabetes-Prediction-with-Pyspark-MLlib-) | ML model using PySpark | `PySpark` `MLlib` |
+| [Expert System](https://github.com/Lamhour-Mohamed-Akram/Syst-me-Expert-via-Prolog) | AI programming language recommender | `Prolog` |
+| [Big Data Pipeline](https://github.com/Lamhour-Mohamed-Akram/Hadoop-with-Hive-Nifi-Hbase-in-distributed-mode-Tableau-for-Data-Visualisation) | Distributed data processing | `Hadoop` `Hive` `HBase` |
+| [Docker Web App](https://github.com/Lamhour-Mohamed-Akram/Generer-une-application-web-conteneuris-e-avec-Docker) | Containerized deployment | `Docker` `JS` |
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently
 
 - 🏗️ Building scalable construction management platforms
 - 📊 Implementing data-driven business solutions
-- 🔄 Optimizing CI/CD pipelines & DevOps workflows
-- 🧠 Exploring AI/ML integrations in enterprise applications
+- 🔄 Optimizing CI/CD pipelines
 
 ---
 
-> *"Clean code, robust architecture, and continuous improvement."*
+> *"Clean code, robust architecture, continuous improvement."*
