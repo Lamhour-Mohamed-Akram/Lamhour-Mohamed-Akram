@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ak2lamhour)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.self.so/ak2lamhour)
+![Profile Views](https://komarev.com/ghpvc/?username=Lamhour-Mohamed-Akram&color=blue&style=for-the-badge)
 
 ### Full-Stack Software Engineer | Data Science & ML Background
 
