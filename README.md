@@ -31,6 +31,7 @@ class MohamedAkram:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
@@ -40,11 +41,15 @@ class MohamedAkram:
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**DevOps & Data**
+**Database & DevOps**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+**Data Science**
 ![PySpark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 
 ---
 
@@ -59,10 +64,10 @@ class MohamedAkram:
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [Blood Donation](https://github.com/Lamhour-Mohamed-Akram/blooddonation) | Blood donation management platform | `Java EE` `MySQL` `JSP` |
 | [Diabetes Prediction](https://github.com/Lamhour-Mohamed-Akram/Diabetes-Prediction-with-Pyspark-MLlib-) | ML model using PySpark | `PySpark` `MLlib` |
 | [Expert System](https://github.com/Lamhour-Mohamed-Akram/Syst-me-Expert-via-Prolog) | AI programming language recommender | `Prolog` |
 | [Big Data Pipeline](https://github.com/Lamhour-Mohamed-Akram/Hadoop-with-Hive-Nifi-Hbase-in-distributed-mode-Tableau-for-Data-Visualisation) | Distributed data processing | `Hadoop` `Hive` `HBase` |
-| [Docker Web App](https://github.com/Lamhour-Mohamed-Akram/Generer-une-application-web-conteneuris-e-avec-Docker) | Containerized deployment | `Docker` `JS` |
 
 ---
 
