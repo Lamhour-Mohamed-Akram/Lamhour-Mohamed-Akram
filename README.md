@@ -6,7 +6,7 @@
 
 ### Full-Stack Software Engineer | Data Science & ML Background
 
-📍 Bremen, Germany
+📍 KIEL, Germany
 
 ---
 
